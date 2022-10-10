@@ -1,4 +1,4 @@
-/* h1{
+h1{
     font-size: 60px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
@@ -16,7 +16,7 @@ p {
 
 img {
     width: 18vw;
-} */
+}
 
 
 * {box-sizing:border-box;}
